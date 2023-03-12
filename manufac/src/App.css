@@ -1,0 +1,31 @@
+body{
+  overflow-x: hidden;
+}
+.app{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.scatterplot{
+  width: 80%;
+}
+.barchart{
+  width: 80%;
+}
+.btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  background-color: #4e4ef1;
+  color: white;
+  border:none;
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 8px;
+}
+
+
